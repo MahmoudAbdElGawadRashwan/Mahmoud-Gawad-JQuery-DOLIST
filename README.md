@@ -1,2 +1,2 @@
-# Mahmoud-Gawad-JQuery-Lab-1
+# Mahmoud-Gawad-JQuery-DoList
 Mahmoud Abd El Gawad JQuery Lab 1
